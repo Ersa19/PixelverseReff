@@ -1,6 +1,6 @@
 {
-    "secret": "",
-    "tgId": "",
-    "initData": "",
+    "secret": "72d911c69e94f72391b82c3e71a16d8c9399f5e13e3ab01ce4dc53f6b9710792",
+    "tgId": "984997783",
+    "initData": "query_id=AAGX37U6AAAAAJfftToh_-L2&user=%7B%22id%22%3A984997783%2C%22first_name%22%3A%22%24CFI%20Ery%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22ery019%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1718690417&hash=e3de08f03e3584d6ee0053fb777f4ad38dbe85328a3da20dcc2da946770ab972",
     "hitRate": 0.09
 }
